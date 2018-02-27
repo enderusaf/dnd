@@ -1,11 +1,11 @@
 import os
 
-os.system("cat ~/projects/dnd/wenson/abillities/sneakAttack")
-os.system("cat ~/projects/dnd/wenson/abillities/evasion")
-os.system("cat ~/projects/dnd/wenson/abillities/assasinate")
-os.system("cat ~/projects/dnd/wenson/abillities/uncannyDodge")
-os.system("cat ~/projects/dnd/wenson/abillities/cunningAction")
-os.system("cat ~/projects/dnd/wenson/abillities/lucky")
-os.system("cat ~/projects/dnd/wenson/abillities/Skulker")
-os.system("cat ~/projects/dnd/wenson/abillities/dualWield")
+os.system("cat ~/projects/dnd/wenson/abilities/sneakAttack")
+os.system("cat ~/projects/dnd/wenson/abilities/evasion")
+os.system("cat ~/projects/dnd/wenson/abilities/assasinate")
+os.system("cat ~/projects/dnd/wenson/abilities/uncannyDodge")
+os.system("cat ~/projects/dnd/wenson/abilities/cunningAction")
+os.system("cat ~/projects/dnd/wenson/abilities/lucky")
+os.system("cat ~/projects/dnd/wenson/abilities/Skulker")
+os.system("cat ~/projects/dnd/wenson/abilities/dualWield")
 
