@@ -8,4 +8,4 @@ os.system("cat ~/projects/dnd/wenson/abilities/cunningAction")
 os.system("cat ~/projects/dnd/wenson/abilities/lucky")
 os.system("cat ~/projects/dnd/wenson/abilities/Skulker")
 os.system("cat ~/projects/dnd/wenson/abilities/dualWield")
-
+os.system("cat ~/projects/dnd/wenson/abilities/mageSlayer")
